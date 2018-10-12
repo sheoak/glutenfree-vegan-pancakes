@@ -1,4 +1,4 @@
-# opensource-glutenfree-vegan-pancakes
+# Open Source gluten-free vegan pancakes
 
 An open source recipe for gluten free vegan pancakes
 
