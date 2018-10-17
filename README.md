@@ -1,6 +1,6 @@
 # Gluten-free vegan pancakes
 
-An open source recipe for gluten free vegan pancakes
+A recipe for gluten free vegan pancakes
 
 
 ## Ingredients for 5 pancakes
